@@ -1,0 +1,2 @@
+# NTV04_NtShutdownSystem
+NTAPI快速关闭计算机视频源代码，用于演示未公开的AP
